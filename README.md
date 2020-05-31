@@ -7,12 +7,12 @@ This is producer project and if you haven't cloned the consumer project for Rabb
 
 
 ## How Does this Work
-1. `Clone` this `Producer` Repository
-2. `Clone Consumer` Repository
+1. Clone this Producer Repository by running `git clone https://github.com/manojselvin/message-queue-producer`
+2. Clone Consumer Repository by running `git clone https://github.com/manojselvin/message-queue-worker`
 3. Run Both the projects by following the steps mentioned to run the project in each projects `README.md` file.
 
 ## Steps to Run Producer Project
-1. Clone this project
+1. Clone this project by running ``git clone https://github.com/manojselvin/message-queue-producer``
 2. `cd` into `project dir`
 3. Complete `Steps to generate Connection URL for RabbitMQ`. 
 4. run `npm install` to install all dependencies
