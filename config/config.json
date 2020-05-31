@@ -1,0 +1,4 @@
+{
+    "CONN_URL": "<Follow the instructions in read me on how to generate connection url for RabbitMQ>",
+    "QUEUE_NAME": "<Follow the instructions in read me on how to get queue name for RabbitMQ>"
+}
